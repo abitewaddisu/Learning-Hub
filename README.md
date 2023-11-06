@@ -1,7 +1,7 @@
 # Learning Hub
 Responsive learning hub website built with React
 
-[Live Preview]([addisuabitew.netlify.com](https://cerulean-bublanina-d37c66.netlify.app/))
+[Live Preview](https://cerulean-bublanina-d37c66.netlify.app/)
 <img width="960" alt="Learning Hub" src="https://github.com/abitewaddisu/Learning-Hub/assets/104774854/4def400f-9141-40f3-a02b-03f08b8ec08d">
 
 ## Packages Used:
